@@ -1,1 +1,2 @@
 # Reinforcement-Learning
+The task of this project is to build a reinforcement learning agent to navigate the classic 5x5 grid environment. I implemented reinforcement learning algorithm13 Q-Learning. The agent will learn an optimal policy through Q-Learning which will allow it to take actions to reach a goal while avoiding obstacles. It finds the shortest path to reach the destination which is goal with maximum reward. The environment and agent is be built to be compatible with OpenAI Gym environments and will run effectively on computationally-limited machines.
